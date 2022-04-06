@@ -1,5 +1,5 @@
 # NLP Tweets Sentiment Classification
-the repository with py file and jupyter notebooks which contain web scraping module and NLP tweets sentiment classification.
+The repository with py file and jupyter notebooks which contain web scraping module and NLP tweets sentiment classification.
 
 Real-time tweets will be streamed through the Twitter Streaming API and stored in local machine. You can find official documentation [here](https://developer.twitter.com/en/docs/labs/filtered-stream/overview).
 
