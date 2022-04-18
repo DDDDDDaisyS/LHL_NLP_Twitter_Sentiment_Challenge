@@ -1,5 +1,5 @@
 # NLP Tweets Sentiment Classification
-The repository with py file and jupyter notebooks which contain web scraping module and NLP tweets sentiment classification.
+The repository contain a sentiment tweets scraping module (.py) and a jupyter notebook solving NLP tweets sentiment classification problem with Naive Bayes model.
 
 Real-time tweets are streamed through the Twitter Streaming API and stored in local machine. You can find official documentation [here](https://developer.twitter.com/en/docs/labs/filtered-stream/overview).
 
@@ -10,7 +10,5 @@ Real-time tweets are streamed through the Twitter Streaming API and stored in lo
     - if you don't know what  website to use, use link to this repository: https://github.com/lighthouse-labs/API_challenge. 
     - Once you have access to your keys and tokens (should be 4 overall), save them as environmental variables in your computer.
     - Test your personal details using python snippet in the instructions above. We will have to edit the code and use package os to access the values of environmental variables
-
-
 
 
