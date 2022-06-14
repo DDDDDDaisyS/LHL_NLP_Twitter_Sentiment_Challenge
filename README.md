@@ -1,5 +1,7 @@
 # NLP Tweets Sentiment Classification
-The repository contains a sentiment tweets scraping module (.py) and a jupyter notebook solving NLP tweets sentiment classification problem with Naive Bayes model.
+The repository contains:
+- a sentiment tweets scraping module (.py) using Twitter Streaming API
+- a jupyter notebook of steps solving tweets sentiment classification problem with NLP and Naive Bayes model.
 
 Real-time tweets are streamed through the Twitter Streaming API and stored in local machine. You can find official documentation [here](https://developer.twitter.com/en/docs/labs/filtered-stream/overview).
 
